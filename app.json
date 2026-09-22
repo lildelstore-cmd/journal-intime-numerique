@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Journal Intime Numérique",
+    "slug": "journal-intime-numerique",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#2C3E50"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.uccc.journalintime",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.uccc.journalintime"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fef10531-03fd-431a-ad2b-7e6987c4f995"
+      }
+    }
+  }
+}
