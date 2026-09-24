@@ -81,8 +81,7 @@ journal-intime/
 
 ## Installation et lancement
 
-Prérequis : Node.js (18+), et l'application **Expo Go** sur votre téléphone
-(ou un émulateur Android/iOS).
+
 
 ```bash
 # 1. Installer les dépendances
