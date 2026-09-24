@@ -1,4 +1,4 @@
-# Journal Intime Numérique 📔
+# Journal Intime Numérique 
 
 Application mobile React Native (Expo) permettant à un utilisateur de tenir
 un journal intime privé et sécurisé sur son téléphone.
@@ -103,16 +103,8 @@ eas build -p android --profile preview
 ```
 (nécessite un compte Expo gratuit — `eas login`)
 
-## Stack technique
-
-| Élément            | Choix                                   |
-|---------------------|------------------------------------------|
-| Framework           | React Native (Expo, managed workflow)   |
-| Navigation           | React Navigation (Native Stack)         |
-| Gestion d'état       | React Context (`useContext`) + `useState` |
-| Stockage local       | `@react-native-async-storage/async-storage` |
-| Chiffrement          | `crypto-js` (AES, SHA-256, PBKDF2)      |
+          | `crypto-js` (AES, SHA-256, PBKDF2)      |
 
 ## Auteur
 
-Bildad — UCCC, Faculté des Sciences Informatiques
+PIERRE ANTOINE Judel — UCCC, Faculté des Sciences Informatiques
